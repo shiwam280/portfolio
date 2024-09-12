@@ -136,14 +136,14 @@ export const EDUCATION = [
     institution: "Pranveer Singh Institute of Technology",
     duration: "June 2022 - June 2024",
     description:
-      "Specialized in Human-Computer Interaction and Software Engineering. Completed a thesis on enhancing user experience in web applications through advanced interactive techniques. Participated in various projects involving frontend development, algorithms, and data structures. Graduated with honors.",
+      "In my MCA program at Pranveer Singh Institute of Technology, I gained advanced knowledge in software development, focusing on programming languages, data structures, and algorithms. This education equipped me with the skills to tackle complex software challenges and fostered my ability to work collaboratively in teams.",
   },
   {
     degree: "Bachelor of Computer Applications",
     institution: "Dr. Virendra Swarup Institute of Computer Studies",
     duration: "August 2018 - August 2021",
     description:
-      "Focused on web development, programming languages, and database management. Actively involved in coding clubs and hackathons, where I developed several web applications using HTML, CSS, JavaScript, and PHP. Completed a senior project on developing an e-commerce platform. Graduated with a high GPA.",
+      "During my BCA at Dr. Virendra Swarup Institute of Technology, I developed a strong foundation in front-end technologies, including HTML, CSS, and JavaScript. This program emphasized practical application through projects, enhancing my coding skills and preparing me for a career in software development.",
   },
 ];
 

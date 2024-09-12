@@ -42,7 +42,7 @@ const Projects = () => {
                 href={project.live}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="rounded-full bg-white px-4 py-2 text-black hover:bg-gray-300"
+                className="rounded-full bg-white px-4 py-2 text-black hover:bg-gray-300 mb-2"
               >
                 <div className="flex items-center gap-2">
                   <span>Live</span>
